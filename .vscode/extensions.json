@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin",
+        "idered.npm",
+        "dbaeumer.vscode-eslint"
+    ]
+}
